@@ -48,7 +48,12 @@ button {
 /*取消链接的下划线*/
 a,button {
     color: #666;
+    outline: none;
     text-decoration: none
+}
+a:hover{
+    text-decoration: none;
+
 }
 
 button,

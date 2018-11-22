@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,OADG,CACH,YAAY,CAAA;EACR,KAAK,EAAC,IAAI;CAMb;;AARL,AAGQ,OAHD,CACH,YAAY,CAER,EAAE,CAAA;EACC,OAAO,EAAC,IAAI;EACX,KAAK,EAAC,IAAI;CACb",
+    "sources": [
+        "inlanddiscount.scss"
+    ],
+    "names": [],
+    "file": "inlanddiscount.css"
+}
